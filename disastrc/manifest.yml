@@ -1,0 +1,13 @@
+modules:
+  'jira:issueGlance':
+    - key: disastrc-hello-world-glance
+      function: main
+      title: disastrc
+      description: A hello world issue glance.
+      label: Hello World!
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: 'ari:cloud:ecosystem::app/95bf6605-7e8e-4806-9faf-a13d2ee5d1a9'
+  name: disastrc
