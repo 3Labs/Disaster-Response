@@ -1,1 +1,3 @@
-# DISASTR-Code
+# DISASTR
+
+Disaster Resiliency System
