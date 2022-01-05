@@ -1,5 +1,5 @@
 # Disaster Resiliceny System
 
-• pre-disaster/mitigation
-• disaster response
-• post-disaster/rehabilitation
+- pre-disaster/mitigation
+- disaster response
+- post-disaster/rehabilitation
