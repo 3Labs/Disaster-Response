@@ -1,3 +1,3 @@
-# DISASTR
+# Disaster-Response
 
 Disaster Resiliency System
